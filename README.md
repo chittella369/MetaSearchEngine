@@ -1,4 +1,4 @@
-# Information Retrieval - Assignment 1 (Group 72)
+# Meta Search Engine
 
 This repository contains the implementation of a basic **Metasearch Engine (MSE)** designed to aggregate, rank, and evaluate search results from multiple search engines for any user-defined query/company (e.g., **Amazon, Tesla, SpaceX, Nvidia, Apple Inc.**) across specific categories: **Technology and Business**.
 
