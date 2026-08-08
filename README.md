@@ -1,15 +1,15 @@
-## Information Retrieval using MetaSearchEngine ##
+# Information Retrieval - Assignment 1 (Group 72)
 
-This repository contains the implementation of a basic **Metasearch Engine (MSE)** designed to aggregate, rank, and evaluate search results from multiple search engines for the query **"Apple Inc."** across three categories: **Technology, Sci/Tech, and Business**.
+This repository contains the implementation of a basic **Metasearch Engine (MSE)** designed to aggregate, rank, and evaluate search results from multiple search engines for any user-defined query/company (e.g., **Amazon, Tesla, SpaceX, Nvidia, Apple Inc.**) across specific categories: **Technology and Business**.
 
-I have selected two news search engines 'Google news' and 'Bing' and aggregated the results from these two search engines for the above mentioned query
+---
 
 ## 📋 Problem Statement
 
 Web search engines return different sets of results with varying rankings for the same query. A **Metasearch Engine (MSE)** aims to query multiple search engines, aggregate the returned documents, filter duplicates, and apply ranking algorithms to present a unified, high-quality ranked list to the user.
 
 In this assignment, the goals are:
-1. **Document Extraction**: Scrape the top 20 news results from **Google News** and **Bing News** for the query `"Apple Inc."` within a specific date range.
+1. **Dynamic Document Extraction**: Accept a dynamic company name query from the user, create a dedicated subdirectory for it, and scrape the top 20 news results from **Google News** and **Bing News** for the query within a specific date range.
 2. **Aggregated Collection**: Consolidate results across search engines and categories, remove duplicates based on document titles, and assign a unique document ID to each distinct article.
 3. **Document Ranking**:
    - **Approach 1 (Rank-Merge)**: Rank aggregated documents by merging their original search ranks, giving Google results priority in case of ties.
@@ -19,14 +19,40 @@ In this assignment, the goals are:
 
 ---
 
+## 🧮 Ranking Approaches
+
+The Metasearch Engine employs two different methodologies to rank the aggregated search results:
+
+### 1. Approach 1: Rank-Merge (CombMNZ / Search Position Fusion)
+This approach leverages the rank scores assigned by the primary search engines (Google and Bing). It assumes that the search position on industrial search engines is a strong indicator of document quality.
+* **Mechanism**: Merges the results based on their original search ranks.
+* **Tie-Breaking**: If a document has the same rank across both search engines or category results, the rank assigned by **Google News** is given priority to break the tie.
+
+### 2. Approach 2: Content-Relevance (Term Frequency Model)
+This approach ignores the primary search engine ranks and scores documents purely based on their textual content (title + snippet) using a normalized term frequency product over the query terms.
+* **Relevance Scoring Formula**:
+  $$\text{Score}(q, d) = \prod_{q_i \in q} \left(0.5 \times \frac{\text{Term Frequency}(q_i, d)}{\text{Length}(d)} \times \alpha\right)$$
+  Where:
+  * $q_i$: Individual term in the query $q$ (e.g. for query `'Amazon'`, the terms are `'amazon'`).
+  * $\text{Term Frequency}(q_i, d)$: Occurrences of the query term $q_i$ in the document's cleaned title + snippet.
+  * $\text{Length}(d)$: Total count of space-separated words in the document text.
+  * $\alpha$: Scaling parameter (set to $2$).
+* **Mechanism**: If any query term is absent in the document text, the overall score falls to $0.0$. Documents are sorted in descending order of their computed score.
+
+---
+
 ## 🛠️ Repository Structure
 
 * **`MetaSearchEngine/`**:
-  * [MetaSearchEngine.ipynb](file:///Users/aditya/Downloads/M.Tech%20Assignments/IR%20Assignment%201%20-%20Group%2072/AIM-I/MetaSearchEngine.ipynb): Main Jupyter notebook containing the full implementation of scraping, ranking, plotting, and evaluation.
-  * [MetaSearch-Approach.txt](file:///Users/aditya/Downloads/M.Tech%20Assignments/IR%20Assignment%201%20-%20Group%2072/AIM-I/MetaSearch-Approach.txt): Brief overview of class functions and project dependencies.
-  * `Apple Inc._*.txt`: Text files containing the extracted raw search results.
-  * `RankedDocuments.txt`: Consolidated unique documents.
-  * `ResultantRanks_A1.txt` & `ResultantRanks_A2.txt`: Ranked documents using Approach 1 and Approach 2.
+  * [MetaSearchEngine.ipynb](file:///Users/aditya/Downloads/M.Tech%20Assignments/IR%20Assignment%201%20-%20Group%2072/MetaSearchEngine/MetaSearchEngine.ipynb): Main Jupyter notebook containing the full implementation of scraping, ranking, plotting, and evaluation.
+  * [MetaSearch-Approach.txt](file:///Users/aditya/Downloads/M.Tech%20Assignments/IR%20Assignment%201%20-%20Group%2072/MetaSearchEngine/MetaSearch-Approach.txt): Brief overview of class functions and project dependencies.
+  * **`[company_name]/`**: Directory dynamically created for the query (e.g., `Amazon`, `Tesla`, `SpaceX`, `Nvidia`) containing:
+    * `[company_name]_google_tech.txt`, `[company_name]_bing_tech.txt`: Scraped raw results for the Technology category.
+    * `[company_name]_google_business.txt`, `[company_name]_bing_business.txt`: Scraped raw results for the Business category.
+    * `RankedDocuments.txt`: Consolidated unique documents with duplicates removed.
+    * `[company_name]_ResultantRanks_A1.txt` & `[company_name]_ResultantRanks_A2.txt`: Ranked results under Approach 1 and Approach 2.
+* **`AIM-II/`**:
+  * `AIM-II-Information Retrieval.docx`: Documentation/report regarding the second part of the assignment.
 
 ---
 
@@ -68,20 +94,22 @@ Ensure you have Python 3 installed. Install the required external libraries usin
 pip install numpy pandas matplotlib beautifulsoup4 requests python-dateutil
 ```
 
-### 2. Error-Free Execution Design (Fallback Scraper Mechanism)
+### 2. Robust Query Execution & Local Fallback
 > [!IMPORTANT]
-> Live search engine scraping is highly volatile because of dynamically changing HTML structures, IP rate limits, and CAPTCHAs. 
-> To guarantee **error-free execution**, we have built a **robust fallback mechanism** into the notebook:
-> - If live scraping of Google News/Bing News returns 0 results (due to blocks or changed selectors), the code automatically detects this and loads the cached data from the local text files (e.g., `Apple Inc._google_tech.txt`).
-> - It reconstructs all required DataFrame columns transparently so that the ranking, plotting, and evaluation cells can run smoothly without any `KeyErrors` or missing variables.
-> - The query is also pre-cleaned to ensure correct term-matching in Approach 2, preventing identical line overlaps on the precision plot.
+> - **IP & Scraper Volatility**: Live search engine scraping is highly volatile due to CAPTCHAs and structural HTML changes. If live scraping fails or yields 0 results, the notebook fallback mechanism loads pre-cached results for the company.
+> - **Pre-Cleaned Queries**: The user input query is pre-cleaned using the text normalization functions prior to TF relevance scoring in Approach 2. This ensures correct term-matching and generates distinct precision lines for both ranking algorithms.
 
 ### 3. Step-by-Step Instructions
-1. Open a terminal and navigate to the `AIM-I` folder (where the assignment code files are located).
+1. Open a terminal and navigate to the `MetaSearchEngine` folder (where the assignment code files are located).
 2. Start the Jupyter Notebook interface:
    ```bash
    jupyter notebook
    ```
 3. Open the notebook **`MetaSearchEngine.ipynb`**.
-4. In the Jupyter toolbar, select **Kernel** -> **Restart & Run All Cells**.
-5. The notebook will run all cells sequentially, generate the comparison plot for both ranking approaches, and output the computed MAP scores.
+4. Run the cells. When prompted at the cell:
+   ```python
+   company_name = input("enter the company name : ")
+   ```
+   Enter the desired company name (e.g. `Amazon`, `Tesla`, `SpaceX`, `Nvidia`, `Cerebras`, or `Apple Inc.`).
+5. A subdirectory named after the entered company will be automatically created (if not already present) to store the scraped raw text files, deduplicated documents, and final ranked lists.
+6. The notebook will generate the comparison plot for both ranking approaches and print their computed Mean Average Precision (MAP) scores.
