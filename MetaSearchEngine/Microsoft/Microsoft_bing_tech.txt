@@ -1,0 +1,5 @@
+docid	title_snippet
+B1	microsofts top ai boss has a message for engineers using github copilot your token spend is now being tracked microsoft evp jay parikh has told engineers that tokenmaxxing is not what we are optimizing for in an internal memo first
+B2	why microsoft is cracking down on tokenmaxxing despite strong earnings microsoft has joined a growing list of tech companies looking to curb the wasteful use of ai tools internally amid greater
+B3	microsoft how evp charles lamanna is helping turn microsoft into the copilot company charles lamanna who leads microsofts copilot agents and platform work is helping build the coming copilot super app a
+B4	microsofts next ai move satya nadella says a copilot super app is coming microsoft reported a record billion in annual revenue as ceo satya nadella unveiled plans for a copilot ai super app

@@ -1,0 +1,40 @@
+new_rank	docid	title_snippet
+1	G1	twitter product head resigns sends thanks note to elon musk and team tesla ceo responds
+2	B1	elon musk is rewriting tesla story changing plot from evs to ai an analysis of teslas earnings call transcripts shows elon musk has steadily shifted his focus from electric vehicles to
+3	G1	tesla china business seen as key hurdle to potential spacex merger
+4	G2	tesla and spacex commit billion to a texas chip fab they call terafab
+5	G2	spacex ramps up tesla megapack purchases in to power its ai data centers
+6	B2	tesla may sell its china business as elon musk explores spacex merger report tesla is reportedly exploring options to separate its china business including a spinoff or sale as elon musk considers a
+7	G3	tesla demands full selfdriving secrecy from regulators in europe
+8	B3	tesla model y gets grok ai in india tesla model y gets free grok ai in india with voice controls indian language support smart navigation test drives and new owner benefits
+9	G4	prediction for tesla stock in years the bear case
+10	G4	spacex bought million worth of tesla megapacks in
+11	G5	reasons tesla could monopolize the us robotaxi market
+12	G5	robotaxis are scaling now fixing problems later
+13	B5	spacex earnings big questions investors want elon musk to answer on ai starlink stock and tesla spacexs first earnings report will face questions on ai spending starlink growth computing plans stock pressure and its ties to tesla
+14	G6	is tesla poised to enter the san diego robotaxi business
+15	G6	lucid aims to knock teslas robotaxi off its perch
+16	G7	tesla model y rwd review an entrylevel trim with topoftheline technology
+17	G7	spacex tesla invest usd billion in texas ai chip terafab
+18	G8	spacex tesla commit to terafab chip factory in texas
+19	G9	the big short investor michael burry holds his ground on nvidia tesla and other shorts warns of
+20	G9	spacex and tesla choose texas for ai chip manufacturing plant that will be worlds largest building
+21	G10	spacex tesla to initially spend billion on terafab chip plant in texas
+22	G10	tesla s buildout now costs more cash than the business generates
+23	G11	waymo ceo takes a notsosubtle shot at tesla robotaxi over lidar
+24	G11	the boring company s newest tunnel vehicle runs on tesla parts and no one is driving it
+25	G12	tesla plans solar cell factory in fort bend county as musk expands texas manufacturing
+26	G12	teslas china business could complicate musks biggest deal yet
+27	G13	a separation of tesla s china business ahead of a potential spacex merger could get tricky
+28	G14	spacex tesla to spend on terafab chip factory in texas
+29	G14	tesla eyes tax breaks for new solar cell manufacturing facility
+30	G15	tech race summit expands global lineup with tesla and pandadoc leaders
+31	G16	softswiss s tech race summit expands global lineup with leaders from tesla and pandadoc
+32	G16	teslas july chinamade ev sales rise yy
+33	G17	musk s next big bet spacex and tesla invest billion in texas chip plant
+34	G17	mark ruffalo says his kia is hands down a better car than a tesla feels luxury
+35	G18	softswiss expands tech race summit speaker lineup with tesla pandadoc executives
+36	G19	paul graham says his wife s first tesla fsd experience was like a religious revelation and ai chief as
+37	G19	tesla considers shedding china business ahead of spacex merger
+38	G20	spacex and tesla to build natural gas plants and battery arrays for billion texas chip factory
+39	G20	teslas battery business is growing faster than its cars and a new texas factory for megapack just went live

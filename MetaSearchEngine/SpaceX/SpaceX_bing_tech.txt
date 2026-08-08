@@ -1,0 +1,7 @@
+docid	title_snippet
+B1	spacex s nvidia deal could be bad news for neoclouds like coreweave and nebius analysts say nvidia could bump spacex to the front of the line when it comes to its limited supply of chips according to bernstein
+B2	spacex investors face potentially irresistible opportunity to cash out heavy selling is expected but determining who is getting out or trimming stakes will be key to market sentiment on the companys prospects fund managers brokers and analysts said
+B3	spacexs ai spending doubles to billion in amid aggressive compute expansion elon musk said spacex is expected to hit a billion annualized revenue run rate by the end of the year much of it coming from its ai infrastructure and cloud compute business
+B4	spacex revenue jumps where will spacex stock be in year spacex stock faces a key year ahead as revenue starlink and ai growth rise while heavy spending high valuation and lockups could shape its outlook
+B5	elon musk outlines plan to use robots for moon factories spacex eyes future space manufacturing spacexs longterm vision includes autonomous robots building lunar infrastructure aipowered satellites and manufacturing facilities that could support future missions beyond earth
+B6	spacex investors set to question elon musk over growing tesla ties as merger speculation grows questions about a possible merger have been circulating for months

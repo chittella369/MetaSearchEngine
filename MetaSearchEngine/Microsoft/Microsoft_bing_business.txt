@@ -1,0 +1,5 @@
+docid	title_snippet
+B1	microsoft opens its largest india data center hub as ai race heats up aug reuters microsoft launched its largest india data center in hyderabad on thursday and has signed up adani group and
+B2	microsoft ai infrastructure why azure growth demands more spending microsoft is stepping up ai infrastructure spending as azure grows copilot tops million paid seats and cloud demand
+B3	around of microsofts ai business still depends entirely on openai recent analysis showed that microsofts ai business while seemingly booming still carries somewhat enormous sam altmanshaped risk
+B4	jay parikh microsoft limits engineers ai spending to stop tokenmaxxing microsoft has implemented new restrictions on employee ai tool usage emphasizing outcomedriven optimization over

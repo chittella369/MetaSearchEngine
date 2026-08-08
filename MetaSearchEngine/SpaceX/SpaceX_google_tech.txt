@@ -1,0 +1,21 @@
+docid	title_snippet
+G1	spacex plans to build factories on the moon says elon musk
+G2	spacex nears ipo price again after staging billion rally
+G3	spacex shares slide on the heels of first quarterly report
+G4	the spacex ipo and the rise of strategic frontier technology
+G5	spacex plans to enter us telecom market set to rival att verizon and tmobile
+G6	spacex among tech stocks surging after weak jobs report
+G7	spacex needs to make its bigger rockets work technology news ht tech
+G8	spacex stock price forecast shares slump over after listing will they hit new lows this year
+G9	bengaluru startups rocket engine marks a first can it become indias answer to spacexs raptor
+G10	fortune tech spacex sales jump big tech goes to washington cloudflare embraces ai shopping
+G11	forget the artificial intelligence ai capex bubble spacex ceo elon musk says the memory shortage will drive costs even higher
+G12	tesla and spacex commit billion to a texas chip fab they call terafab
+G13	an old spacex rocket is about to crash into the moon
+G14	spacex to build usd billion chip plant in texas create over jobs
+G15	watch spacexs ai push ubers next move and zooxs milestone bloomberg tech
+G16	watch spacexs ai cloud business is taking off says deutsche bank
+G17	jefferies analyst calls out simpleminded criticism of spacex s governance
+G18	just announced spacex and nvidia teaming up on new orbital ai data center
+G19	spacex stock drops as revenue beats expectations
+G20	spacex s spending on ai soars in first results after ipo

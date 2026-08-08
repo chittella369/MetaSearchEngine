@@ -1,0 +1,47 @@
+new_rank	docid	title_snippet
+1	G13	nvidia stock straight green days up
+2	G7	nautilus data technologies nvidia marketplace debut
+3	G14	nvidiabacked startup quitely builds big business
+4	G9	zayo confirms nvidia as its new monster customer
+5	G3	microsoft nvidia move enterprise ai toward active cyber defense
+6	G19	nvidia s nvda alpamayo launch and the robotaxi bet
+7	G11	elon musk just announced major news for nvidia shareholders
+8	G10	nautilus data technologies named nvidia ai factory infrastructure partner
+9	G13	beamr integrates nvidia technology to turn hd content into
+10	G4	beyond nvidia and gpus the next ai quantum winners leading
+11	G5	nvidia ends week up more than as ai chip fears ease
+12	G4	nvidia to invest up to billion in lancium the information reports
+13	G2	nvidia expands ai infrastructure push with up to billion lancium deal
+14	G5	ai is starting to rewrite the software that made nvidia untouchable
+15	G20	own the ai boom nvidia s story vs micron s contracts
+16	G14	us reviews china s offshore nvidia chip access after ai gains
+17	G17	nvidia to invest up to billion in lancium the information reports
+18	G18	nvidia stock rises after musk says spacex will exclusively use companys chips
+19	G15	amd shares fall as elon musk commits to nvidia chips for spacex
+20	G9	beamr brings nvidia video super resolution to live sports and broadcast video
+21	G12	no product valuation why nvidia is betting on safe superintelligence inc ssi
+22	G16	nvidia nvda is evolving beyond gpus into a full ai infrastructure platform
+23	G1	nvidia to invest up to billion in stargate data centre developer lancium
+24	G16	sarvam raises million from nvidia gaja capital indigo ventures in series b
+25	B5	elon musk just announced major news for nvidia shareholders spacex will exclusviely be using nvidia chips moving forward
+26	G18	just announced spacex and nvidia teaming up on new orbital ai data center
+27	G12	nvidia just put billion into a company that has never shipped a product
+28	G6	ai factories will power saudi arabia s next phase of digital transformation nvidia says
+29	G17	amd executives say the chip company has a key advantage over nvidia being more open
+30	G2	nvidia to invest up to billion in stargate data center developer lancium the information reports
+31	G8	why amkor technology amkr is up after nvidia s billion capacity deal and strong results
+32	G19	spacex and nvidia are taking their relationship exclusive heres what musk said about their new status
+33	G3	spacex s nvidia deal could be bad news for neoclouds like coreweave and nebius analysts say
+34	B3	nvidiapowered ai meets neuroscience iqed learning system unveils nextgeneration personalised education platform further strengthening its technological credentials iqed has been selected as part of nvidias prestigious inception program
+35	B7	after hugging face hack nvidialed alliance brings framework to counter future ai attacks nvidialed open secure ai alliance has introduced safe a new ai cybersecurity framework to help companies share incidents
+36	B1	nvidia to invest up to billion in stargate data center developer lancium report says nvidia invests in lancium developer of stargate data center campus in texas chipmaker takes stake eyes ipo for
+37	B4	ai godmother feifei li just said what nvidia ceo told fellow ceos on doomsday scenario ai visionary feifei li and nvidias chief executive jensen huang push back against alarming prophecies concerning artificial
+38	B3	spacex goes allin on nvidia plans to launch ai data centres into orbit in musk said spacex will use nvidia s vera rubin systems on the ground and in orbit as the company expands computing capacity
+39	B8	apple vs nvidia worlds most valuable companies are taking opposite ai paths but who holds the edge while apple focuses on generating cash flow nvidia is deeply involved in ai although dependent on market uncertainties both strategies present unique advantages
+40	B6	top tech news today amd nvidia apple intelligence crypto jobs greetings from the digital world welcome to todays tech roundup ai is once again stealing the spotlight amds latest
+41	B2	nvidia ceo jensen huang who lives by the phrase days from going out of business says he is jealous of the young founders nvidia ceo jensen huang told founders at y combinators startup school that this is the single greatest time in history
+42	G1	firebird launches cis region s largest ai factory in armenia
+43	G11	chinas pharma companies are facing a monkey problem that they say is as tough as negotiating for an n
+44	G6	naver expands ai business with factory project eyes revenue
+45	G15	europes established tech firms emerge as unexpected ai winners
+46	G20	jealous of the young founders jensen huang explains why now is the perfect time to start a company

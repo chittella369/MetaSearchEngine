@@ -1,0 +1,21 @@
+docid	title_snippet
+G1	microsoft opens its largest india data centre hub as ai race heats up
+G2	microsoft makes a controversial decision that changes its ai story
+G3	microsoft has good and bad news for its engineers using ai coding tools
+G4	when access opens doors how two young indonesians are building digital careers through ai and cloud
+G5	microsoft s hyderabad data centre puts ai talent in spotlight
+G6	after telling employees to stop using claude code microsofts internal memo has more bad news for anth
+G7	microsofts hyderabad data centre goes live as ai and cloud infrastructure demand grows in india
+G8	microsoft opens fourth data center region in india for azure
+G9	hexaware tech joins microsoft intelligent security association to accelerate zero trust cybersecurity
+G10	microsoft launches fourth india cloud region in hyderabad to accelerate ai adoption
+G11	microsoft nvidia move enterprise ai toward active cyber defense
+G12	microsoft opens largest india data centre as ai race with amazon and alphabet heats up
+G13	microsoft boosts indias digital infrastructure with fourth cloud region
+G14	microsoft launches fourth india cloud region as ai demand accelerates
+G15	hexaware joins the microsoft intelligent security association misa
+G16	microsoft ai bioacoustic technology for whale conservation
+G17	manipur launches tech partnership with microsoft to boost digital governance
+G18	leases totalling trillion from microsoft meta oracle amazon and google that analysts are calling l
+G19	microsoft launches fourth india cloud region in hyderabad as ai demand accelerates
+G20	microsoft expands hyderabad cloud to power india ai growth

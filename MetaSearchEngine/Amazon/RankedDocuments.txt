@@ -1,0 +1,52 @@
+new_rank	docid	title_snippet
+1	G1	technologyinternet cir amazon s unlawful access claims against perplexity ai unlikely to succeed injunction vacated
+2	G2	amazons ai warehouses are struggling with a real human problem
+3	G3	why amazon s trillion valuation signals a new era of aipowered cloud computing and aws expansion
+4	G4	leases totalling trillion from microsoft meta oracle amazon and google that analysts are calling l
+5	G5	amazon drops samsung galaxy price by by rs before great freedom sale
+6	G6	inside amazons firstever drone delivery site in the uk
+7	G7	watch amazons zoox robotaxi enters the commercial race
+8	G8	xech unveils celebrate freedom upgrade life campaign with exclusive deals on amazon
+9	G9	amazon great freedom sale top android tablet deals you shouldnt miss
+10	G10	amazon delivery drones are coming to metro atlanta
+11	G11	amazon and flipkart sale dreame sennheiser and nothing announce discounts on smart home devices a
+12	G12	amazon great freedom sale goes live with offers on tvs laptops appliances tablets audio products and more technology news ht tech
+13	G13	amazon sued by universal electronics for infringing smartdevice patents
+14	G14	amazon freedom sale galaxy ultra price drops to lowest now available for under rs with offers
+15	G15	amazon great freedom sale is live for prime members up to off on laptops tablets smartwatches and more technology news ht tech
+16	G16	hisense india and toshiba announces special independence day offers across amazon great freedom festival and flipkart freedom sale
+17	G17	price drop alert shop bestselling refrigerators with up to off in the amazon great freedom sale technology news ht tech
+18	G18	universal electronics sues amazon over patents covering echo fire tv and alexa technologies
+19	G19	amazon may lead the golden age of autonomous technology nasdaqamzn
+20	G20	genai war continues as alexa upgrades amazon s smart home
+21	B1	amazon s ai spending keeps rising andy jassy says memory costs drove billion capex increase amazon has increased its planned capital spending for to about billion with ceo andy jassy citing higher ai memory
+22	B2	amazons ai warehouses are struggling with a real human problem ai is everywhere including at one of the worlds largest retailers but some of those experiments havent gone as well as
+23	B3	from gps tracking to sos alerts these kids smartwatches are worth considering during the amazon sale looking for a smartwatch for your child the amazon great freedom sale brings discounts on kids smartwatches with gps
+24	B4	amazon becomes a trillion company whats driving the recordbreaking rally amazon has become the fifth company to cross the trillion market value milestone as strong aws growth robust ai demand
+25	B5	amazon rewarded after ai investment plans becomes company to reach this milestone amazon achieved a significant financial milestone crossing three trillion dollars in market capitalization this surge
+26	B6	from quiet evenings to loud celebrations your living room deserves a tv from amazon some upgrades fade into the background a great tv never does explore tvs on amazon that elevate every moment in
+27	B7	amazon great freedom sale ro water purifier deals for your kitchen amazon great freedom sale ro water purifier deals for your kitchen looking for an ro water purifier during amazon
+28	B8	samsung refrigerators on amazon for modern homes finest double door picks for samsung offers doubledoor refrigerators on amazon that go beyond their door layout as they also offer bespoke ai convertible
+29	B9	amazon enters trillion club as ai optimism sweeps through wall street amazon achieved a three trillion dollar market capitalisation for the first time this milestone places the company among
+30	B10	amazon may lead the golden age of autonomous technology amazoncom inc is a remarkable strong buy driven by awss accelerating growth and multilayered ai positioning read more
+31	G1	amazon business how procurement teams shape strategic cost
+32	G2	amazon is worth trillion again but ai not ecommerce got it there
+33	G3	amazon behind massive private gas plant for new data centers
+34	G4	celebrating national handloom day textiles crafts to explore on amazonin
+35	G5	internal amazon documents reveal a major overhaul of one of the worlds biggest ai data centers
+36	G6	why more than companies including amazon meta and oracle are cutting thousands of jobs check full list business news
+37	G7	amazon business optimising inventory with machine learning
+38	G8	amazon taps fulfillment model for dedicated branded delivery trucks
+39	G9	nyc mayor zohran mamdani targets amazon walmart over alleged sale of illegal highspeed ebikes
+40	G10	ai layoffs amazon meta oracle ups walmart citi cut jobs
+41	G11	amazons stock just soared heres why now is just the beginning
+42	G12	global layoff wave continues why amazon meta oracle and companies are cutting jobs
+43	G13	dr kirk adamss the disability dividend hits amazon bestseller status in two competitive business categories
+44	G14	jpmorgan raises amazon stock price target following strong ai business growth
+45	G15	disaster hits home how amazon and other companies are responding to washington state wildfires
+46	G17	amazon dropshipping guide for businesses in africa
+47	G20	companies laying off staff this year include meta amazon and visa see the list
+48	B1	why more than companies including amazon meta and oracle are cutting thousands of jobs check full list more than companies including amazon meta ups and walmart have announced layoffs in as businesses cut costs
+49	B2	less than a fifth of india s msme procurement spend is digital india sme forum amazon business report according to the india digital procurement report by india sme forum and amazon business indian msmes spend lakh
+50	B4	amazons trillion explained the ai cloud business behind the record amazon just hit trillion in market value and aws is the real reason why heres what drove the record straight from the
+51	B5	amazon joins the trillion club as aws chief calls the ai business just massive amazon has crossed a trillion market cap for the first time powered by aws and ai as cloud boss matt garman calls the ai

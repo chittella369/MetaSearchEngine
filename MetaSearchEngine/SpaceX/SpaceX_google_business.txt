@@ -1,0 +1,21 @@
+docid	title_snippet
+G1	how cleaning up space debris could grow to become a big business
+G2	what is spacex the private rocket and satellite company explained
+G3	investors have fresh doubts about elon musk s grandiose ambitions
+G4	spacex stock faces pressure as million shares unlock after record ipo business news
+G5	why spacex shares fell despite blockbuster earnings elon musk business news
+G6	spacex shares sink after first earnings report reveals huge ai spending plans
+G7	spacex revenue jumps in debut results as satellite ai businesses surge
+G8	spacex earnings recap stock drops after first postipo report reveals higher than expected ai capex
+G9	spacex made more revenue as an ai company than a space company
+G10	spacex shares surge near ipo price again after billion rally
+G11	spacex a dream put to the test of the numbers
+G12	ceo elon musk says this is the most underappreciated part of spacexs business
+G13	spacex stock lands an upgrade rocket lab surges after electron mission
+G14	spacex s revenue rises as its oncesoaring stock price drifts back to earth
+G15	spacex shares sink after first earnings report reveals huge ai spending
+G16	spacex s ai splurge puts a damper on debut earnings after ipo
+G17	elon musks most noteworthy comments during spacexs first earnings call
+G18	spacex s wayward starship may not make it back to shore
+G19	spacex stock drops as revenue beats expectations
+G20	spacex ramps up tesla megapack purchases in to power its ai data centers

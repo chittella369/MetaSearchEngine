@@ -1,0 +1,21 @@
+docid	title_snippet
+G1	microsoft unveils aibacked cloud region in hyderabad
+G2	microsoft opens largest india cloud region in hyderabad
+G3	microsoft s newest india datacenter region goes live to power the country s ai economy and enable frontier firms
+G4	a decade of enterprise identity in the cloud with aws managed microsoft ad
+G5	microsoft earnings insights cloud and business apps trends from
+G6	how to deploy fireworks ai on microsoft foundry a startup architecture blueprint
+G7	microsoft launches hyderabad cloud region to power indias ai economy strengthen enterprise adoption
+G8	marquette business hosting microsoft s evp chief strategy and transformation officer at business leaders forum
+G9	rystad energy for microsoft copilot trusted energy intelligence for every workflow
+G10	microsofts hyderabad data centre goes live bolstering indias ai ambitions
+G11	microsoft opens hyderabad cloud region as india ai demand grows
+G12	microsoft is retiring its peerfeedback tool as it overhauls employee reviews an internal message shows
+G13	microsoft launches fourth india cloud region in hyderabad to accelerate ai adoption
+G14	microsoft launches hyderabad cloud region to boost ai
+G15	microsoft purview licensing explained business premium vs vs do this before you upgrade
+G16	microsoft opens fourth data center region in india for azure
+G17	microsoft opens its largest india data centre hub as ai race heats up
+G18	microsoft s ai business is booming a filing shows most of it is just openai
+G19	around of microsofts ai business still depends entirely on openai
+G20	weaponizes microsoft authentication against us companies new enterprise risk

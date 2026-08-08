@@ -1,0 +1,46 @@
+new_rank	docid	title_snippet
+1	G1	microsoft opens its largest india data centre hub as ai race heats up
+2	G2	microsoft makes a controversial decision that changes its ai story
+3	G3	microsoft has good and bad news for its engineers using ai coding tools
+4	G4	when access opens doors how two young indonesians are building digital careers through ai and cloud
+5	G5	microsoft s hyderabad data centre puts ai talent in spotlight
+6	G6	after telling employees to stop using claude code microsofts internal memo has more bad news for anth
+7	G7	microsofts hyderabad data centre goes live as ai and cloud infrastructure demand grows in india
+8	G8	microsoft opens fourth data center region in india for azure
+9	G9	hexaware tech joins microsoft intelligent security association to accelerate zero trust cybersecurity
+10	G10	microsoft launches fourth india cloud region in hyderabad to accelerate ai adoption
+11	G11	microsoft nvidia move enterprise ai toward active cyber defense
+12	G12	microsoft opens largest india data centre as ai race with amazon and alphabet heats up
+13	G13	microsoft boosts indias digital infrastructure with fourth cloud region
+14	G14	microsoft launches fourth india cloud region as ai demand accelerates
+15	G15	hexaware joins the microsoft intelligent security association misa
+16	G16	microsoft ai bioacoustic technology for whale conservation
+17	G17	manipur launches tech partnership with microsoft to boost digital governance
+18	G18	leases totalling trillion from microsoft meta oracle amazon and google that analysts are calling l
+19	G19	microsoft launches fourth india cloud region in hyderabad as ai demand accelerates
+20	G20	microsoft expands hyderabad cloud to power india ai growth
+21	B1	microsofts top ai boss has a message for engineers using github copilot your token spend is now being tracked microsoft evp jay parikh has told engineers that tokenmaxxing is not what we are optimizing for in an internal memo first
+22	B2	why microsoft is cracking down on tokenmaxxing despite strong earnings microsoft has joined a growing list of tech companies looking to curb the wasteful use of ai tools internally amid greater
+23	B3	microsoft how evp charles lamanna is helping turn microsoft into the copilot company charles lamanna who leads microsofts copilot agents and platform work is helping build the coming copilot super app a
+24	B4	microsofts next ai move satya nadella says a copilot super app is coming microsoft reported a record billion in annual revenue as ceo satya nadella unveiled plans for a copilot ai super app
+25	G1	microsoft unveils aibacked cloud region in hyderabad
+26	G2	microsoft opens largest india cloud region in hyderabad
+27	G3	microsoft s newest india datacenter region goes live to power the country s ai economy and enable frontier firms
+28	G4	a decade of enterprise identity in the cloud with aws managed microsoft ad
+29	G5	microsoft earnings insights cloud and business apps trends from
+30	G6	how to deploy fireworks ai on microsoft foundry a startup architecture blueprint
+31	G7	microsoft launches hyderabad cloud region to power indias ai economy strengthen enterprise adoption
+32	G8	marquette business hosting microsoft s evp chief strategy and transformation officer at business leaders forum
+33	G9	rystad energy for microsoft copilot trusted energy intelligence for every workflow
+34	G10	microsofts hyderabad data centre goes live bolstering indias ai ambitions
+35	G11	microsoft opens hyderabad cloud region as india ai demand grows
+36	G12	microsoft is retiring its peerfeedback tool as it overhauls employee reviews an internal message shows
+37	G14	microsoft launches hyderabad cloud region to boost ai
+38	G15	microsoft purview licensing explained business premium vs vs do this before you upgrade
+39	G16	microsoft opens fourth data center region in india for azure
+40	G18	microsoft s ai business is booming a filing shows most of it is just openai
+41	G19	around of microsofts ai business still depends entirely on openai
+42	G20	weaponizes microsoft authentication against us companies new enterprise risk
+43	B1	microsoft opens its largest india data center hub as ai race heats up aug reuters microsoft launched its largest india data center in hyderabad on thursday and has signed up adani group and
+44	B2	microsoft ai infrastructure why azure growth demands more spending microsoft is stepping up ai infrastructure spending as azure grows copilot tops million paid seats and cloud demand
+45	B4	jay parikh microsoft limits engineers ai spending to stop tokenmaxxing microsoft has implemented new restrictions on employee ai tool usage emphasizing outcomedriven optimization over

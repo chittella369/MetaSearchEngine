@@ -1,0 +1,57 @@
+new_rank	docid	title_snippet
+1	G19	spacex stock drops as revenue beats expectations
+2	G2	spacex nears ipo price again after staging billion rally
+3	G6	spacex among tech stocks surging after weak jobs report
+4	G3	spacex shares slide on the heels of first quarterly report
+5	G4	the spacex ipo and the rise of strategic frontier technology
+6	G17	jefferies analyst calls out simpleminded criticism of spacex s governance
+7	G11	spacex a dream put to the test of the numbers
+8	G2	what is spacex the private rocket and satellite company explained
+9	G10	spacex shares surge near ipo price again after billion rally
+10	G17	elon musks most noteworthy comments during spacexs first earnings call
+11	G13	an old spacex rocket is about to crash into the moon
+12	G13	spacex stock lands an upgrade rocket lab surges after electron mission
+13	G18	spacex s wayward starship may not make it back to shore
+14	G20	spacex s spending on ai soars in first results after ipo
+15	G15	spacex shares sink after first earnings report reveals huge ai spending
+16	G16	watch spacexs ai cloud business is taking off says deutsche bank
+17	G7	spacex revenue jumps in debut results as satellite ai businesses surge
+18	G5	why spacex shares fell despite blockbuster earnings elon musk business news
+19	G1	spacex plans to build factories on the moon says elon musk
+20	G6	spacex shares sink after first earnings report reveals huge ai spending plans
+21	G9	spacex made more revenue as an ai company than a space company
+22	G7	spacex needs to make its bigger rockets work technology news ht tech
+23	G14	spacex to build usd billion chip plant in texas create over jobs
+24	G15	watch spacexs ai push ubers next move and zooxs milestone bloomberg tech
+25	G16	spacex s ai splurge puts a damper on debut earnings after ipo
+26	G14	spacex s revenue rises as its oncesoaring stock price drifts back to earth
+27	G18	just announced spacex and nvidia teaming up on new orbital ai data center
+28	G12	tesla and spacex commit billion to a texas chip fab they call terafab
+29	G20	spacex ramps up tesla megapack purchases in to power its ai data centers
+30	G4	spacex stock faces pressure as million shares unlock after record ipo business news
+31	G12	ceo elon musk says this is the most underappreciated part of spacexs business
+32	G10	fortune tech spacex sales jump big tech goes to washington cloudflare embraces ai shopping
+33	G5	spacex plans to enter us telecom market set to rival att verizon and tmobile
+34	G8	spacex earnings recap stock drops after first postipo report reveals higher than expected ai capex
+35	G9	bengaluru startups rocket engine marks a first can it become indias answer to spacexs raptor
+36	G8	spacex stock price forecast shares slump over after listing will they hit new lows this year
+37	B11	spacex reports revenue jump driven by ai and starlink spacexs revenue doubled yearoveryear driven by starlinks expansion and lucrative computing power agreements with
+38	B8	spacex earnings beat expectations so why is the stock falling starting august up to million spacex shares will be freed from their lockin period with more unlocks scheduled
+39	G11	forget the artificial intelligence ai capex bubble spacex ceo elon musk says the memory shortage will drive costs even higher
+40	B4	spacex revenue jumps where will spacex stock be in year spacex stock faces a key year ahead as revenue starlink and ai growth rise while heavy spending high valuation and lockups could shape its outlook
+41	B13	spacex revenue hits as ai investment push weighs on stock price spacex shares reversed gains after the company released its first quarterly earnings report following its june public listing
+42	B7	spacex the market may still be misreading the business spacexs ai infrastructure has become a core growth driver with ai revenue reaching in read why spcx stock is a
+43	B5	spacex rebounds after postearnings selloff first batch of lockedup shares unlocks spacex shares rose to on august recovering from recent losses driven by ai spending concerns while the stock
+44	B4	elon musks spacex posts million loss in first public quarter but revenue surges spacex reported a million loss in its first public quarter as revenue jumped to billion while shares fell from
+45	B9	spacex shares fall in extended trading as spending plans dampen improving financials spacex reported revenue of billion for the quarter gone by which was higher than last year and also above the
+46	B6	spacex investors set to question elon musk over growing tesla ties as merger speculation grows questions about a possible merger have been circulating for months
+47	B5	elon musk outlines plan to use robots for moon factories spacex eyes future space manufacturing spacexs longterm vision includes autonomous robots building lunar infrastructure aipowered satellites and manufacturing facilities that could support future missions beyond earth
+48	B1	spacex s nvidia deal could be bad news for neoclouds like coreweave and nebius analysts say nvidia could bump spacex to the front of the line when it comes to its limited supply of chips according to bernstein
+49	B10	investors expect spacex to slide to per share suggesting zero ai business value is it too late to get rich spacex shares have plunged close to from their alltime highs as of late july they could slide further as investors
+50	B3	spacexs first public earnings reveal the cost of musks ai ambitions starlinkpowered revenue nearly doubled in the june quarter and operating losses narrowed sharply but a massive surge in
+51	B6	spacex revenue nearly doubles to bn in debut earnings as starlink ai businesses surge spacex nearly doubled its revenue in the quarter ended june driven by strong growth in its starlink satellite internet business and artificial intelligence ai operations according to the
+52	B12	elon musk at spacexs first earnings call says data centers a trivial problem compared to what company s rocket engineers work on every day spacex is significantly increasing its investment in ai data centers the company views building ai infrastructure as a
+53	B3	spacexs ai spending doubles to billion in amid aggressive compute expansion elon musk said spacex is expected to hit a billion annualized revenue run rate by the end of the year much of it coming from its ai infrastructure and cloud compute business
+54	B2	spacex investors face potentially irresistible opportunity to cash out heavy selling is expected but determining who is getting out or trimming stakes will be key to market sentiment on the companys prospects fund managers brokers and analysts said
+55	G3	investors have fresh doubts about elon musk s grandiose ambitions
+56	G1	how cleaning up space debris could grow to become a big business

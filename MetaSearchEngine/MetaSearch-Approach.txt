@@ -1,0 +1,30 @@
+Approach :
+I have created a basic metasearch engine for a user query Apple Inc. on three specific categories (Technology, Sci/Tech, Business).
+we have selected two news search engines 'Google news' and 'Bing' and aggregated the results from these two search engines for the above mentioned query.
+
+
+1. Install required libraries as below
+    - numpy
+	- pandas
+	- matplotlib
+	- BeautifulSoup
+	- requests
+	
+2. Python language is used to written the code
+
+3. Created a basic meta search engine , for a user query on a specified category will be send out to news search engines ( google news and bing news ) and aggregates the documents
+   from these search engines. The aggregrated documents are ranked and presented to users.
+4. Class description
+		Class Name : MSE
+		description : Metasearch engine class that has the below functions
+		- parse_google_html : Parses the search results returned by Google Search engine
+		- parse_bing_html : parses the search results returned by Bing Search engine
+		- google_news	: forms the URL for the search query for Google news search engine
+		- bing_news		: forms the URL for the search query for Bing news search engine
+		- execute_search : takes the user-agent info and returns the parsed results by taking the URL of search engine 
+		- get_search_query : based on the search query, returns the search URL
+		- getpastdate : converts the hours to date.
+		- clean_text : Removes the punctuations and cleans the text.
+		- term_frequency : computes the term frequency in a document
+		- compute_rank : computes the rank of document w.r.t. the query
+		- pre_at_stage : Evaluates the precision at each stage [5,10,15,20,25,30]
