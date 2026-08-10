@@ -51,8 +51,6 @@ This approach ignores the primary search engine ranks and scores documents purel
     * `[company_name]_google_business.txt`, `[company_name]_bing_business.txt`: Scraped raw results for the Business category.
     * `RankedDocuments.txt`: Consolidated unique documents with duplicates removed.
     * `[company_name]_ResultantRanks_A1.txt` & `[company_name]_ResultantRanks_A2.txt`: Ranked results under Approach 1 and Approach 2.
-* **`AIM-II/`**:
-  * `AIM-II-Information Retrieval.docx`: Documentation/report regarding the second part of the assignment.
 
 ---
 
