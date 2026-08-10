@@ -101,7 +101,8 @@ pip install numpy pandas matplotlib beautifulsoup4 requests python-dateutil
 1. Open a terminal and navigate to the `MetaSearchEngine` folder (where the assignment code files are located).
 2. Start the Jupyter Notebook interface:
    ```bash
-   jupyter notebook
+   jupyter notebook --ip=127.0.0.1
+   
    ```
 3. Open the notebook **`MetaSearchEngine.ipynb`**.
 4. Run the cells. When prompted at the cell:
